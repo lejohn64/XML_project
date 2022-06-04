@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<classes>
+    <class>
+        <Name>BRR-ZERKER</Name>
+        <Description>Brr-Zerkers are specialists in Melee and Cryo damage.</Description>
+        <skills>
+            <action>Dreadwind</action>
+            <action>Feral surge</action>
+        </skills>
+    </class>
+    <class>
+        <Name>CLAWBRINGER</Name>
+        <Description>Clawbringers focus on Fire and Lightning damage.</Description>
+        <skills>
+            <action>Cleansing Flames</action>
+            <action>Storm Dragon's Judgment</action>
+        </skills>
+    </class>
+    <class>
+        <Name>GRAVEBORN</Name>
+        <Description>The Graveborn is a master of Kill Skills, Spells, and Dark Magic.</Description>
+        <skills>
+            <action>Dire Sacrifice</action>
+            <action>Reaper of Bones</action>
+        </skills>
+    </class>
+    <class>
+        <Name>SPELLSHOT</Name>
+        <Description>Spellshots are all about combining Spells with Guns.</Description>
+        <skills>
+            <action>Ambi-Hextrous</action>
+            <action>Polymorph</action>
+        </skills>
+    </class>
+    <class>
+        <Name>SPORE WARDEN</Name>
+        <Description>Spore Wardens are Gun and Companion specialists.</Description>
+        <skills>
+            <action>Barrage</action>
+            <action>Blizzard</action>
+        </skills>
+    </class>
+    <class>
+        <Name>STABBOMANCER</Name>
+        <Description>The Stabbomancer specializes in Critical Hits and Status Effects.</Description>
+        <skills>
+            <action>Ghost Blade</action>
+            <action>From the Shadows</action>
+        </skills>
+    </class>
+</classes>

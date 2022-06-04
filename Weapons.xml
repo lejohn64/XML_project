@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<weapons>
+    <weapon>
+        <name>Pistols</name>
+        <name>SMGs</name>
+        <name>Assault Rifles</name>
+        <name>Shotguns</name>
+        <name>Sniper Rifles</name>
+        <name>Heavy Weapons</name>
+    </weapon>
+
+    <weapon_manufacturers>
+        <manufacturer>Feriore</manufacturer>
+        <manufacturer>Hyperius</manufacturer>
+        <manufacturer>Dahlia</manufacturer>
+        <manufacturer>Stoker</manufacturer>
+        <manufacturer>Skuldugger</manufacturer>
+        <manufacturer>Torgue</manufacturer>
+        <manufacturer>Black Powder</manufacturer>
+    </weapon_manufacturers>
+
+    <damage_types>
+        <type>Kinetic</type>
+        <type>Fire</type>
+        <type>Lightning</type>
+        <type>Poison</type>
+        <type>Frost</type>
+        <type>Dark Magic</type>
+    </damage_types>
+    
+</weapons>
